@@ -8,7 +8,7 @@ import (
 func main() {
 	// add  conditions to check the 4 inputs
 	// create possibility to restart when tickets numbers entered are wrong
-	// adding possibility to tell the use which input was wrong
+	// adding possibility to tell the user which input was wrong
 	const conferenceName = "Go conference"
 	const numberOfTickets = 50
 	remainingTickets := uint(50)
