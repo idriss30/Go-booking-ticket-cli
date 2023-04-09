@@ -39,4 +39,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/idrissciss/)
 
 If you learn anything from this project and/or would like to support:</br>
 Please give a star, I would appreciate.</br>
-Thanks for your time.
+
