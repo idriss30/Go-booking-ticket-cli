@@ -32,7 +32,7 @@ $ go build
 
 # Author
 
-Created by me Idris.</br>
+Created by me.</br>
 You can find me on [LinkedIn](https://www.linkedin.com/in/idrissciss/)
 
 # Support
